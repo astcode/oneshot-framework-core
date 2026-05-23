@@ -1,0 +1,10 @@
+.env
+/storage/logs/*.log
+/storage/cache/*
+/storage/sessions/*
+/storage/database/*.sqlite
+!.gitkeep
+.DS_Store
+Thumbs.db
+/vendor/
+/node_modules/
